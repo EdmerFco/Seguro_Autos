@@ -1,0 +1,8 @@
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\obj\Debug\prueba de aseguransa de autos.csproj.AssemblyReference.cache
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\obj\Debug\prueba de aseguransa de autos.csproj.SuggestedBindingRedirects.cache
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\obj\Debug\prueba de aseguransa de autos.csproj.CoreCompileInputs.cache
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\bin\Debug\prueba de aseguransa de autos.exe.config
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\bin\Debug\prueba de aseguransa de autos.exe
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\bin\Debug\prueba de aseguransa de autos.pdb
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\obj\Debug\prueba de aseguransa de autos.exe
+C:\Users\pacoh\Documents\TICH\Semana 2\aplicaciones .ner framework\prueba de aseguransa de autos\prueba de aseguransa de autos\obj\Debug\prueba de aseguransa de autos.pdb
